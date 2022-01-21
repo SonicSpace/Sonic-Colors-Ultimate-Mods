@@ -1,0 +1,141 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "The Real Sonic Unleashed Experience Mod - Settings",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Select Voice Type",
+               "Description": [
+                  "This system determines which voices will be used within the game."
+               ],
+               "Type": "UnleashedVoiceEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_ULSJGV"
+            
+            },
+
+
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Unleashed Boost",
+               "Description": [
+                  "Adds Sonic Unleashed aura effect to Sonic + Drift boost in certain stages"
+               ],
+               "Type": "UnleashedBoostEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_ULSB"
+
+            },
+
+            
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Unleashed Model",
+               "Description": [
+                  "Replaces Normal And Super Sonic with their unleashed models, jump balls, and sonics run animation with a edited version of the SCU run animations (since the unleashed one's don't work properly on SCU's skeleton)."
+               ],
+               "Type": "UnleashedModelEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_ULSM"   
+            },
+
+
+            {
+               "Name": "IncludeDir3",
+               "DisplayName": "Unleashed Music",
+               "Description": [
+                  "Play as Super Sonic, but with the song Super Sonic vs. Perfect Dark Gaia + Unleashed Results."
+               ],
+               "Type": "UnleashedBGM",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_ULBGM"
+            }
+         ]
+      }
+   ],
+   "Enums": {
+      "UnleashedVoiceEnum": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "This option disables the voice system inserted in this mod, returning Roger Craig Smith's original voice made for Sonic Colors: Ultimate."
+            ]
+         },
+         {
+            "DisplayName": "English (Jason Griffith)",
+            "Value": "core_ULSJGV",
+            "Description": [
+               "Use the English voice made for Sonic Unleashed (Jason Griffith)."
+            ]
+         },
+         {
+            "DisplayName": "Japanese (Jun'ichi Kanemaru)",
+            "Value": "core_UNLJNMV",
+            "Description": [
+               "Use the Japanese voice made for Sonic Unleashed (Jun'ichi Kanemaru)."
+            ]
+         }
+      ],
+      
+
+      "UnleashedBoostEnum": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables the Unleashed style Boost aura restoring to the original Sonic Colors Ultimate boost." 
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_ULSB",
+            "Description": [
+               "Activates the Unleashed-style Boost aura."
+            ]
+         }
+      ],
+
+
+      "UnleashedModelEnum": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables Unleashed Sonic Model returning to original Sonic Colors: Ultimate Skeleton."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_ULSM",
+            "Description": [
+               "Activate the Unlelashed Sonic Model."
+            ]
+         }
+      ],
+
+      "UnleashedBGM": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disable Super Sonic Music (Super Sonic vs. Perfect Dark Gaia) + Unleashed Results Music."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_ULBGM",
+            "Description": [
+               "Enable Super Sonic Music (Super Sonic vs. Perfect Dark Gaia) + Unleashed Results Music."
+            ]
+         }
+      ]
+   },
+   "IniFile": "mod.ini"
+}
