@@ -128,8 +128,7 @@
                "Disable Super Sonic Music (Super Sonic vs. Perfect Dark Gaia) + Unleashed Results Music."
             ]
          },
-         {
-            "DisplayName": "Enable",
+         {  "DisplayName": "Enable",
             "Value": "core_ULBGM",
             "Description": [
                "Enable Super Sonic Music (Super Sonic vs. Perfect Dark Gaia) + Unleashed Results Music."
