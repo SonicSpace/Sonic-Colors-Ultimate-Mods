@@ -7,7 +7,7 @@ delete core_ULSJGV\PCCriPak\Sound\All\PC\En\se_voice_sonic_action_E.acb
 delete core_ULSM\sonicmod-unleashedsonic.zip
 delete core_UNLJNMV\PCCriPak\Sound\All\PC\En\UpdateServer.txt
 add mod.ini
-add System.sjon
+add System.json
 add core_NGH/UpdateServer.txt
 add core_ULBGM/PCCriPak/Sound/All/PC/UpdateServer.txt
 add core_ULSB/sonicmod-unboost.zip
