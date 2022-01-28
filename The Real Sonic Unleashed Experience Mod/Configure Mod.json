@@ -1,0 +1,174 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "The Real Sonic Unleashed Experience Mod - Settings",
+         "Elements": [
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Select Voice Type:",
+               "Description": [
+                  "This system determines which voices will be used within the game. The Real Jason & Jun'ichi Voice Mod - English or Japanese."
+               ],
+               "Type": "VoiceEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_SUVJG"
+            
+            },
+
+            
+            { 
+               "Name": "IncludeDir1",
+               "DisplayName": "Unleashed Boost:",
+               "Description": [
+                  "Originally planned on releasing this with unleashed sonic 2.0 but I'm having some issues with that so for now here's the completed unleashed boost! Still not perfect but its definitely closer."
+               ],
+               "Type": "UnleashedBoost",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_SUBOOST"
+
+            },
+
+
+            { 
+               "Name": "IncludeDir2",
+               "DisplayName": "Unleashed Model:",
+               "Description": [
+                  "A remake of Unleashed Sonic mod to help people wait for True SU Sonic. So this is really just a majorly updated version of that mod, but made with more stuff that I've learnt since then. Replaces Sonic's and Super Sonic's models with their respective models from Unleashed."
+               ],
+               "Type": "UnleashedModel",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_SUModel"
+
+            },
+
+
+            {
+               "Name": "IncludeDir3",
+               "DisplayName": "Only Unleashed Super Sonic Music:",
+               "Description": [
+                  "Play as Super Sonic, but with the song Endless Possibility (NateWantsToBattle Cover), but without the songs from Sonic Unleashed."
+               ],
+               "Type": "SuperBGM",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_OLYSSCM"
+
+            },
+
+            
+            {
+               "Name": "IncludeDir4",
+               "DisplayName": "Unleashed Music:",
+               "Description": [
+                  "Play with Sonic Unleashed + Endless Possibility (NateWantsToBattle Cover) songs as Super Sonic."
+               ],
+               "Type": "UnleashedBGM",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_SUBGM"   
+            }
+         ]
+      }
+   ],
+   "Enums": {
+      "VoiceEnum": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables Jason Griffith's voice (English) returning to Roger Craig Smith's voice (Sonic Colors Ultimate)."
+            ]
+         },
+         {
+            "DisplayName": "English (Jason Griffith)",
+            "Value": "core_SUVJG",
+            "Description": [
+               "Use the English voice made for Sonic Unleashed (Jason Griffith)."
+            ]
+         },
+         { "DisplayName": "Japanese (Jun'ichi Kanemaru)",
+            "Value": "core_SUVJNM",
+            "Description": [
+               "Use the Japanese voice made for Sonic Unleashed (Jun'ichi Kanemaru)."
+            ]
+         }   
+      ],
+
+
+      "UnleashedBGM": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disable Sonic Unleashed reference songs returning to original Sonic Colors: Ultimate songs."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_SUBGM",
+            "Description": [
+               "Activate Sonic Unleashed songs within Sonic Colors: Ultimate."
+            ]
+         }
+      ],
+
+
+      "SuperBGM": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables Super Sonic's music (Unleashed) when Sonic transforms."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_OLYSSCM",
+            "Description": [
+               "Enables Super Sonic's music (Unleashed) when Sonic transforms."
+            ]
+         }   
+      ],
+
+
+      "UnleashedModel": [
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables the latest version of the Unleashed Model, returning to the original Sonic Colors: Ultimate model/skeleton."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_SUModel",
+            "Description": [
+                "Active the latest version of the Unleashed Model."
+            ]
+         }
+      ],
+         
+
+      "UnleashedBoost": [   
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables Sonic Unleashed Boost, returning to the game's default boost (Sonic Colors: Ultimate)."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_SUBOOST",
+            "Description": [
+               "Activates Sonic Unleashed Boost in-game."
+            ]
+         }      
+      ]
+   },
+   "IniFile": "mod.ini"
+}
