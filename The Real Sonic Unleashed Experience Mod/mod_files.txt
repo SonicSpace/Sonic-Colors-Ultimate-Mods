@@ -1,14 +1,3 @@
-delete mod.ini
-delete Configure Mod.json
-delete core_NGH\UpdateServer.txt
-delete core_SUBOOST\sonicmod-unboost.zip
-delete core_SUModel\sonicmod-suremake.zip
-delete core_SUVJG\PCCriPak\Sound\All\PC\En\se_voice_sonic_action_E.acb
-delete core_SUVJNM\PCCriPak\Sound\All\PC\En\se_voice_sonic_action_E.acb
 add mod.ini
-add Configure Mod.json
 add core_NGH/UpdateServer.txt
-add core_SUBOOST/sonicmod-unboost.zip
 add core_SUModel/sonicmod-suremake.zip
-add core_SUVJG/PCCriPak/Sound/All/PC/En/se_voice_sonic_action_E.acb
-add core_SUVJNM/PCCriPak/Sound/All/PC/En/se_voice_sonic_action_E.acb
