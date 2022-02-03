@@ -1,3 +1,7 @@
+## The Real Sonic Unleashed Experience Mod - v1.2
+
+- SU REMAKE → Improvement: Running animation fixes
+
 ## The Real Sonic Unleashed Experience Mod - v1.1
 
 - SU REMAKE → Improvement: Improved animations a bit
