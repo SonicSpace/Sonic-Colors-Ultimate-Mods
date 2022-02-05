@@ -1,3 +1,8 @@
+## The Real Sonic Unleashed Experience Mod - v1.3
+
+- SU REMAKE → Improvement: Jumpball now spins faster.
+- SU REMAKE → Improvement: Edited the jumpball materials to look better.
+
 ## The Real Sonic Unleashed Experience Mod - v1.2
 
 - SU REMAKE → Improvement: Running animation fixes
