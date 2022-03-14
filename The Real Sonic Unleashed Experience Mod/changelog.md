@@ -1,3 +1,7 @@
+## The Real Sonic Unleashed Experience Mod - 1.4.1
+
+- SU BOOST → Adjustment: Missing files.
+
 ## The Real Sonic Unleashed Experience Mod - v1.4
 
 - SU REMAKE → Addition: Eye Animations!

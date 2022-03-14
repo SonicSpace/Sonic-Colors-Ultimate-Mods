@@ -1,3 +1,5 @@
 add mod.ini
 add core_SUModel/sonicmod-suremake.zip
+add core_SUBOOST/sonicmod-unboostpone.zip
+add core_SUBOOST/sonicmod-unboostptwo.zip
 
