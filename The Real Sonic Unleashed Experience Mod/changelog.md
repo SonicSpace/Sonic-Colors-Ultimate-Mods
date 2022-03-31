@@ -1,4 +1,9 @@
-## The Real Sonic Unleashed Experience Mod - 1.4.1
+## The Real Sonic Unleashed Experience Mod - v2.0
+- SU REMAKE → Addition: Some more SU Animations.
+- SU REMAKE → Addition: Configuration, lets you choose between having chips bracelet or not having it.
+- SU REMAKE → Overhaul: Completely new materials for both normal sonic and Super Sonic.
+
+## The Real Sonic Unleashed Experience Mod - v1.4.1
 
 - SU BOOST → Adjustment: Missing files.
 

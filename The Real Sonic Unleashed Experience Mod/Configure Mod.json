@@ -144,13 +144,20 @@
             ]
          },
          {
-            "DisplayName": "Enable",
+            "DisplayName": "Enable (Without Chip's Bracelet)",
             "Value": "core_SUModel",
             "Description": [
-                "Active the latest version of the Unleashed Model."
+                "Active the latest version of the Unleashed Model. (Without Chip's Bracelet)"
+            ]
+         },
+         {
+            "DisplayName": "Enable (With Chip's Bracelet)",
+            "Value": "core_SUModelBracelet",
+            "Description": [
+                "Active the latest version of the Unleashed Model. (With Chip's Bracelet)"
             ]
          }
-      ],
+      ],  
          
 
       "UnleashedBoost": [   
