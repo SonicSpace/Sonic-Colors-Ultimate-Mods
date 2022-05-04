@@ -1,5 +1,9 @@
 add mod.ini
 add Configure Mod.json
+add core_OP/PCCriPak/Movies/PC/Logoroll_JP.usm
+add core_OP/PCCriPak/Movies/PC/Logoroll_US.usm
+add core_OP/PCCriPak/Movies/PC/Opening_EU.usm
+add core_OP/PCCriPak/Movies/PC/Opening_US.usm
 add core_SUModel/sonicmod-suremake.zip
 add core_SUModelBracelet/sonicmod-suremake.zip
 add core_SUBOOST/sonicmod-unboostpone.zip

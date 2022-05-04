@@ -1,3 +1,7 @@
+## The Real Sonic Unleashed Experience Mod - v2.0.2
+
+- SU OPENING → Addition: The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game.
+
 ## The Real Sonic Unleashed Experience Mod - v2.0.1
 - SU REMAKE → Adjustament: Missing files.
 
