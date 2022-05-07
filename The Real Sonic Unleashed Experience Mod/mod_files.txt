@@ -1,5 +1,7 @@
 add mod.ini
 add Configure Mod.json
+add core_SUVJG/PCCriPak/Sound/All/PC/En/se_voice_sonic_action_E.acb
+add core_SUVJNM/PCCriPak/Sound/All/PC/En/se_voice_sonic_action_E.acb
 add core_OP/PCCriPak/Movies/PC/Logoroll_JP.usm
 add core_OP/PCCriPak/Movies/PC/Logoroll_US.usm
 add core_OP/PCCriPak/Movies/PC/Opening_EU.usm
