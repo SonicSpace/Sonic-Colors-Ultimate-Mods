@@ -2,7 +2,7 @@
 
 - Amendment → You can now choose whether to Enable or Disable a Sonic Unleashed intro animation. (The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game.)
 - The Real Jason Griffith & Jun'ichi Kanemaru Voice → Addition: Completion voices when defeating Sonic Unleashed bosses (English & Japanese)
-- Tweak → It is not possible to add Sonic Unleashed's voices in the boost as the encryption key discovered #ADX does not work with "se_player_sonic.acb"
+- Tweak → It is not possible to add Sonic Unleashed's voices in the boost as the encryption key discovered #ADX created by ActualMandM does not work with "se_player_sonic.acb"
 - Suggestion → Working to import the Boost sounds originally from Sonic Unleashed (This can take a while, as there are many files and you necessarily need to check them to see if everything is ok and this is very tiring, so I'll do it gradually. Will be released in v2.0.4.)
 
 ## The Real Sonic Unleashed Experience Mod - v2.0.2
