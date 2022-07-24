@@ -70,6 +70,18 @@
                "MinValue": null,
                "MaxValue": null,
                "DefaultValue": "core_SUBGM"   
+            },
+
+            { 
+               "Name": "IncludeDir5",
+               "DisplayName": "Unleashed Opening",
+               "Description": [
+                  "The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game."
+               ],
+               "Type": "UnleashedOP",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_OP" 
             }
          ]
       }
@@ -173,6 +185,24 @@
             "Value": "core_SUBOOST",
             "Description": [
                "Activates Sonic Unleashed Boost in-game."
+            ]
+         }      
+      ],
+
+
+      "UnleashedOP": [   
+         {
+            "DisplayName": "Disable",
+            "Value": "core_NGH",
+            "Description": [
+               "Disables The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": "core_OP",
+            "Description": [
+               "Activates The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game."
             ]
          }      
       ]
