@@ -16,10 +16,10 @@
 
 - SU OPENING → Addition: The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game.
 
-## The Real Sonic Unleashed Experience Mod Standalone & Complete - v2.0.1
+## The Real Sonic Unleashed Experience Mod - v2.0.1
 - SU REMAKE → Adjustament: Missing files.
 
-## The Real Sonic Unleashed Experience Mod Standalone & Complete - v2.0
+## The Real Sonic Unleashed Experience Mod - v2.0
 - SU REMAKE → Addition: Some more SU Animations.
 - SU REMAKE → Addition: Configuration, lets you choose between having chips bracelet or not having it.
 - SU REMAKE → Overhaul: Completely new materials for both normal sonic and Super Sonic.
