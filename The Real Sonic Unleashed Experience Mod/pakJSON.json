@@ -46,8 +46,21 @@
             },
 
 
-            { 
+            {
                "Name": "IncludeDir3",
+               "DisplayName": "Unleashed Music:",
+               "Description": [
+                  "Play with Sonic Unleashed + Endless Possibility (NateWantsToBattle Cover) songs as Super Sonic."
+               ],
+               "Type": "UnleashedBGM",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": ".\\pak008\\"   
+            },
+
+
+            { 
+               "Name": "IncludeDir4",
                "DisplayName": "Unleashed Opening:",
                "Description": [
                   "The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game."
@@ -110,6 +123,24 @@
       ],  
          
 
+      "UnleashedBGM": [
+         {
+            "DisplayName": "Disable",
+            "Value": ".\\pak001\\",
+            "Description": [
+               "Disable Sonic Unleashed reference songs returning to original Sonic Colors: Ultimate songs."
+            ]
+         },
+         {
+            "DisplayName": "Enable",
+            "Value": ".\\pak008\\",
+            "Description": [
+               "Activate Sonic Unleashed songs within Sonic Colors: Ultimate."
+            ]
+         }
+      ],
+
+      
       "UnleashedBoost": [   
          {
             "DisplayName": "Disable",

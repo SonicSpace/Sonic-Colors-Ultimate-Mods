@@ -16,6 +16,7 @@ add pak005/sonicmod-suremake.zip
 add pak003/sonicmod-unboost.zip
 add pak003/sonicmod-unboostpone.zip
 add pak003/sonicmod-unboostptwo.zip
+delete Update Server.docx
 delete Configure Mod.json
 delete core_NGH\UpdateServer.txt
 delete core_SUVJG\PCCriPak\Sound\All\PC\En\se_voice_sonic_action_E.acb

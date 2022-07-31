@@ -1,53 +1,57 @@
-## The Real Sonic Unleashed Experience Mod Standalone - v2.0.4
+## The Real Sonic Unleashed EXP Mod - v2.0.5
+
+- Bugfix → The Real Jun'ichi Kanemaru Voice: Fixed an issue that caused Sonic Unleashed's Japanese voices to not play when defeating bosses in their certain worlds, thus causing them to play the original Sonic Colors: Ultimate audios.
+
+## The Real Sonic Unleashed EXP Mod - v2.0.4
 
 - Removal → Only Unleashed Super Sonic Music
 - Removal → Unleashed Music: Github doesn't know how to upload files with more than 100MB to the repository, so I created 2 separate mods you can find them on the GameBanana website, Github or Google Drive, all with the names indicating which is which.
 - Bugfix → Unleashed Opening: Fixed a bug that caused the Sonic Team (2008) logo + Havok Engine to not appear when opening the game.
-- Amendment → Folders and all files are now more organized. (This change affects imported and updated Unleashed songs, again if you want to use them you will need to download The Real Sonic Unleashed Experience Mod With Unleashed Music found on Github, Google Drive and GameBanana.)
+- Amendment → Folders and all files are now more organized. (This change affects imported and updated Unleashed songs, again if you want to use them you will need to download The Real Sonic Unleashed EXP Mod With Unleashed Music found on Github, Google Drive and GameBanana.)
 
-## The Real Sonic Unleashed Experience Mod Standalone - v2.0.3
+## The Real Sonic Unleashed EXP Mod - v2.0.3
 
 - Amendment → You can now choose whether to Enable or Disable a Sonic Unleashed intro animation. (The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game.)
 - The Real Jason Griffith & Jun'ichi Kanemaru Voice → Addition: Completion voices when defeating Sonic Unleashed bosses (English & Japanese)
 - Tweak → It is not possible to add Sonic Unleashed's voices in the boost as the encryption key discovered #ADX created by ActualMandM does not work with "se_player_sonic.acb"
 - Suggestion → Working to import the Boost sounds originally from Sonic Unleashed (This can take a while, as there are many files and you necessarily need to check them to see if everything is ok and this is very tiring, so I'll do it gradually. Will be released in v2.0.4.)
 
-## The Real Sonic Unleashed Experience Mod Standalone - v2.0.2
+## The Real Sonic Unleashed EXP Mod - v2.0.2
 
 - SU OPENING → Addition: The animation of the SEGA Logo (2008) + Havok Engine were imported, in addition to the announcement trailer made by sega to promote the game.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v2.0.1
+## The Real Sonic Unleashed EXP Mod - v2.0.1
 - SU REMAKE → Adjustament: Missing files.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v2.0
+## The Real Sonic Unleashed EXP Mod Standalone - v2.0
 - SU REMAKE → Addition: Some more SU Animations.
 - SU REMAKE → Addition: Configuration, lets you choose between having chips bracelet or not having it.
 - SU REMAKE → Overhaul: Completely new materials for both normal sonic and Super Sonic.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v1.4.1
+## The Real Sonic Unleashed EXP Mod - v1.4.1
 
 - SU BOOST → Adjustment: Missing files.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v1.4
+## The Real Sonic Unleashed EXP Mod - v1.4
 
 - SU REMAKE → Addition: Eye Animations!
 - SU REMAKE → Improvement: Shoes are less shiny and glossy.
 - SU REMAKE → Improvement: New Better eye materials thanks to Skyth.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v1.3
+## The Real Sonic Unleashed EXP Mod - v1.3
 
 - SU REMAKE → Improvement: Jumpball now spins faster.
 - SU REMAKE → Improvement: Edited the jumpball materials to look better.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v1.2
+## The Real Sonic Unleashed EXP Mod - v1.2
 
 - SU REMAKE → Improvement: Running animation fixes.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v1.1
+## The Real Sonic Unleashed EXP Mod - v1.1
 
 - SU REMAKE → Improvement: Improved animations a bit.
 - SU REMAKE → Tweak: Edited the positioning on the Super Aura.
 
-## The Real Sonic Unleashed Experience Mod Standalone - v1.0
+## The Real Sonic Unleashed EXP Mod - v1.0
 
 - First Release.
